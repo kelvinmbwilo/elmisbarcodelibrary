@@ -1,0 +1,29 @@
+{
+  "name": "elmis-barcode-libray",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "kelvinmbwilo",
+      "email": "kelvinmbwilo@gmial.com"
+    }
+  ],
+  "main": ["dist/elmis-barcode-libray.js"],
+  "ignore": [
+    "src",
+    "test",
+    "gulpfile.js",
+    "karma-*.conf.js",
+    "**/.*"
+  ],
+  "dependencies": {
+    "jQuery-Scanner-Detection":"https://github.com/julien-maurel/jQuery-Scanner-Detection.git",
+    "jquery":"https://github.com/jquery/jquery.git"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.2.0",
+    "angular-scenario": ">=1.2.0",
+    "angular": ">=1.2.0",
+    "angular-resource": ">=1.2.0",
+    "angular-sanitize": ">=1.2.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "kelvinmbwilo",
+        "email": "kelvinmbwilo@gmial.com"
+      },
+      "libraryName": {
+        "original": "elmis-barcode-libray",
+        "camelized": "elmisBarcodeLibray",
+        "dasherized": "elmis-barcode-libray",
+        "slugified": "elmis-barcode-libray",
+        "parts": [
+          "elmis",
+          "barcode",
+          "libray"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/elmis-barcode-libray",
+      "libraryUnitTestDirectory": "test/unit/elmis-barcode-libray",
+      "libraryUnitE2eDirectory": "test/e2e/elmis-barcode-libray"
+    }
+  }
+}
